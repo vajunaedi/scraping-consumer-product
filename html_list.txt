@@ -1,0 +1,6 @@
+shopee.html
+vivo_shopee.html
+xiaomi_shopee.html
+TCL_shopee.html
+lenovo_shopee.html
+huawei_shopee.html
